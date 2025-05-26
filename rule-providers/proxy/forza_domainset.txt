@@ -1,6 +1,7 @@
-# fh4/5 domain server (for auction, coating)
+# fh4/fh5/fm8 domain server (for auction, coating)
 gameservices.fh4.forzamotorsport.net
 gameservices.fh5.forzamotorsport.net
+gameservices.fm.forzamotorsport.net
 #+.forzamotorsport.net
 
 # fh4
